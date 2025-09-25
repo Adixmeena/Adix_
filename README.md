@@ -1,4 +1,4 @@
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Aditya Meena</h1>
+#aditya  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Aditya Meena</h1>
 <h3 align="center">Student at JIT(RGPV), Borawan🌟.</h3>
 <br>
 <p align="right"> </p><h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adixmeena&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge" alt="adixmeena"> 
